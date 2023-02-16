@@ -1,0 +1,11 @@
+C:\Users\Felipe Augusto\Pictures\VStudio\HighSchool\bin\Debug\HighSchool.exe.config
+C:\Users\Felipe Augusto\Pictures\VStudio\HighSchool\bin\Debug\HighSchool.exe
+C:\Users\Felipe Augusto\Pictures\VStudio\HighSchool\bin\Debug\HighSchool.pdb
+C:\Users\Felipe Augusto\Pictures\VStudio\HighSchool\obj\Debug\HighSchool.csproj.AssemblyReference.cache
+C:\Users\Felipe Augusto\Pictures\VStudio\HighSchool\obj\Debug\HighSchool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe Augusto\Pictures\VStudio\HighSchool\obj\Debug\HighSchool.frmPrincipal.resources
+C:\Users\Felipe Augusto\Pictures\VStudio\HighSchool\obj\Debug\HighSchool.Properties.Resources.resources
+C:\Users\Felipe Augusto\Pictures\VStudio\HighSchool\obj\Debug\HighSchool.csproj.GenerateResource.cache
+C:\Users\Felipe Augusto\Pictures\VStudio\HighSchool\obj\Debug\HighSchool.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Augusto\Pictures\VStudio\HighSchool\obj\Debug\HighSchool.exe
+C:\Users\Felipe Augusto\Pictures\VStudio\HighSchool\obj\Debug\HighSchool.pdb
